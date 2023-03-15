@@ -12,7 +12,11 @@
       "profile": "http://malvikasharan.github.io/",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "design",
+        "fundingFinding",
+        "maintenance",
+        "talk"
       ]
     },
     {
@@ -67,7 +71,7 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "reproducible-project-template",
+  "projectName": "TTW-Practitioners-Hub",
   "projectOwner": "alan-turing-institute",
   "repoType": "github",
   "repoHost": "https://github.com",
