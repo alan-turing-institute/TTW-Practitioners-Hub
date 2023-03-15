@@ -1,6 +1,6 @@
 # The Turing Way Practitioners Hub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 *A project management repository for The Turing Way Practitioners Hub*
@@ -96,8 +96,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-malvikasharan" title="Content">🖋</a> <a href="#design-malvikasharan" title="Design">🎨</a> <a href="#fundingFinding-malvikasharan" title="Funding Finding">🔍</a> <a href="#maintenance-malvikasharan" title="Maintenance">🚧</a> <a href="#talk-malvikasharan" title="Talks">📢</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Arielle-Bennett"><img src="https://avatars.githubusercontent.com/u/74651964?v=4?s=100" width="100px;" alt="Arielle-Bennett"/><br /><sub><b>Arielle-Bennett</b></sub></a><br /><a href="#content-Arielle-Bennett" title="Content">🖋</a> <a href="#design-Arielle-Bennett" title="Design">🎨</a> <a href="#fundingFinding-Arielle-Bennett" title="Funding Finding">🔍</a></td>
+      <td align="center" valign="top" width="50%"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-malvikasharan" title="Content">🖋</a> <a href="#design-malvikasharan" title="Design">🎨</a> <a href="#fundingFinding-malvikasharan" title="Funding Finding">🔍</a> <a href="#maintenance-malvikasharan" title="Maintenance">🚧</a> <a href="#talk-malvikasharan" title="Talks">📢</a></td>
+      <td align="center" valign="top" width="50%"><a href="https://github.com/Arielle-Bennett"><img src="https://avatars.githubusercontent.com/u/74651964?v=4?s=100" width="100px;" alt="Arielle-Bennett"/><br /><sub><b>Arielle-Bennett</b></sub></a><br /><a href="#content-Arielle-Bennett" title="Content">🖋</a> <a href="#design-Arielle-Bennett" title="Design">🎨</a> <a href="#fundingFinding-Arielle-Bennett" title="Funding Finding">🔍</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%"><a href="https://github.com/AlexandraAAJ"><img src="https://avatars.githubusercontent.com/u/124181438?v=4?s=100" width="100px;" alt="Alexandra Araujo Alvarez"/><br /><sub><b>Alexandra Araujo Alvarez</b></sub></a><br /><a href="#projectManagement-AlexandraAAJ" title="Project Management">📆</a> <a href="#content-AlexandraAAJ" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

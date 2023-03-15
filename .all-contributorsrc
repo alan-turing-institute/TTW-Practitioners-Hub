@@ -29,6 +29,16 @@
         "design",
         "fundingFinding"
       ]
+    },
+    {
+      "login": "AlexandraAAJ",
+      "name": "Alexandra Araujo Alvarez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124181438?v=4",
+      "profile": "https://github.com/AlexandraAAJ",
+      "contributions": [
+        "projectManagement",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 2,
