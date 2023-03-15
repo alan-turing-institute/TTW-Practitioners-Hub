@@ -1,25 +1,19 @@
-# Template for setting up reproducible projects
+# The Turing Way Practitioners Hub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*A The Turing Way inspired project to enable reproducibility in data science.*
+*A project management repository for The Turing Way Practitioners Hub*
 
-## About this Repository
+## About the Project
 
-This is a template for setting-up a research or data science project online, such as on GitHub.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
-
-This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update information on your README page with information about your project.
-
-<!--If reusing this repository, delete this section -->
-## About README
-
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
+[The Turing Way](https://the-turing-way.netlify.app/welcome) is a flagship project of [The Alan Turing Institute](https://www.turing.ac.uk/). 
+Shared as an open source community-driven handbook on data science, the project promotes best practices for reproducible, ethical, inclusive and collaborative research. 
+To date, 400+ diverse contributors from international organisations have collaborated to develop 300+ chapters and resources, which are available across guides on reproducibility, project design, communication, collaboration, research ethics and community. 
+Hosted under the [Tools, Practices and Systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) Research Programme, the project draws expertise from the institute’s Community Management, Research Application Management, Academic Skills and Research Engineering Teams.
+To embed data science best practices and community expertise into different sectors, we are launching The Turing Way Practitioners Hub this year. 
+The Practitioners Hub will provide a forum for cross-sector engagement, knowledge exchange and strategic collaboration with organisations across academia, research, engineering systems, government and healthcare leading data science initiatives. 
+Through the involvement of domain experts from these sectors, the Practitioners Hub will enable systematic approaches for building a shared understanding of open science, reproducibility, accessibility and research ethics to enhance quality, rigour and integrity in data science and AI.
 
 <!--If reusing this repository, delete this section -->
 
