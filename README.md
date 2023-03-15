@@ -16,40 +16,66 @@ To embed data science best practices and community expertise into different sect
 The Practitioners Hub will provide a forum for cross-sector engagement, knowledge exchange and strategic collaboration with organisations across academia, research, engineering systems, government and healthcare leading data science initiatives. 
 Through the involvement of domain experts from these sectors, the Practitioners Hub will enable systematic approaches for building a shared understanding of open science, reproducibility, accessibility and research ethics to enhance quality, rigour and integrity in data science and AI.
 
+**Project Members**
 
-**Maintainers**
-
-This repository is jointly developed and maintained by The Turing Way Co-Lead (Dr. Malvika Sharan), Research Project Manager (Alexandra Araujo Alvarez), Senior Research Associate (to be recruited soon) and the Research Application Manager (Jennifer Ding), all of them under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
+ - Dr. Malvika Sharan, TPS Senior Researcher - Open Research, Co-Lead of The Turing Way
+ - Alexandra Aruajo Alvarez, Research Project Manager - The Turing Way
+ - Jennifer Ding, Research Application Manager - Acting Senior Researcher
+ - Shane Conneely, Partnership Development Lead
+ 
+ **TPS Contributors**
+ 
+ - Dr. Kirstie Whitaker, TPS Programme Director
+ - Arielle Bennett, TPS Programme Manager
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
-🎯 Roadmap
----
-
-### Checklist for setting an online repository 
-
-- [ ] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [ ] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] .gitignore file (choose from a template)
-- [ ] Issue templates
-    - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
-- [ ] Create a directory with files for project management (meetings, report, proposals)
-- [ ] Create a directory with files for communications
-- [ ] Create a directory for research analysis
-- [ ] Create a directory for research results/outcome to share (?)
-- [ ] Create a directory for ethics approval and project policies
-- [ ] Create a directory with files for stakeholders info and nature of engagement
-- [ ] Connect repo with Zenodo
-- [ ] Add cff file for citation
-- [ ] Add badges
 
 📫 Contact
 ---
 
 For any organisation related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or Alexandra Araujo Alvarez (aaraujoalvarez@turing.ac.uk)
+
+🎯 Roadmap
+---
+
+### Stages of this project
+
+- [x] Proposal sharing in Zenodo: https://zenodo.org/record/7427274
+  -  Cite as: *Sharan, Malvika, & Bennett, Arielle. (2022). The Turing Way Practitioners Hub - Turing Funded Proposal 2022. Zenodo. https://doi.org/10.5281/zenodo.7427274*
+- [x] Recruitment
+  - [x] Research Project Manager
+  - [x] Senior Research Associate
+- [x] Create a primer document to share with invite organisations
+- [x] Invite five organisations from different sectors
+- [x] Align timeline with the BridgeAI project
+- [ ] Work with teh Skills and Digital Catapult to put together a timeline
+- [ ] Create a full 6 months timeline for the cohort members
+- [ ] Identify internal stakeholders and where they will engage
+- [ ] Get 2-3 alumni org from Digital Catapult to work in the first cohort
+- [ ] Hold 1:1 planning meetings with each org
+- [ ] Build agreement/MoU with each org, identify experts in residence
+- [ ] Onboard the Senior Research Associate
+- [ ] Build and centralise resources for the entire cohort
+- [ ] Launch the hub's first cohort with residents and timeline with activities mapped
+- [ ] Hold an onboarding and intro call for each org
+- [ ] Host an in person resident workshop
+
+
+## Repo Structure
+
+*Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).*
+
+```
+├── LICENSE
+├── README.md          <- The top-level README for users of this project.
+├── CODE_OF_CONDUCT.md <- Guidelines for users and contributors of the project.
+├── CONTRIBUTING.md    <- Information on how to contribute to the project.
+├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+├── images             <- Generated graphics and figures to be used in reporting
+├── project_management <- Meeting notes and other project planning resources
+└──
+```
 
 ♻️ License
 ---
