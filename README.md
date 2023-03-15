@@ -13,19 +13,19 @@ To date, 400+ diverse contributors from international organisations have collabo
 Hosted under the [Tools, Practices and Systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) Research Programme, the project draws expertise from the institute’s Community Management, Research Application Management, Academic Skills and Research Engineering Teams.
 To embed data science best practices and community expertise into different sectors, we are launching The Turing Way Practitioners Hub this year. 
 
-The Practitioners Hub will provide a forum for cross-sector engagement, knowledge exchange and strategic collaboration with organisations across academia, research, engineering systems, government and healthcare leading data science initiatives. 
+The Practitioners Hub will provide a forum for cross-sector engagement, knowledge exchange and strategic collaboration with organisations across academia, research, engineering systems, government and healthcare -- leading data science initiatives. 
 Through the involvement of domain experts from these sectors, the Practitioners Hub will enable systematic approaches for building a shared understanding of open science, reproducibility, accessibility and research ethics to enhance quality, rigour and integrity in data science and AI.
 
 **Project Members**
 
- - Dr. Malvika Sharan, TPS Senior Researcher - Open Research, Co-Lead of The Turing Way
- - Alexandra Aruajo Alvarez, Research Project Manager - The Turing Way
+ - Dr Malvika Sharan, TPS Senior Researcher - Open Research, Co-Lead of The Turing Way
+ - Alexandra Araujo Alvarez, Research Project Manager - The Turing Way
  - Jennifer Ding, Research Application Manager - Acting Senior Researcher
  - Shane Conneely, Partnership Development Lead
  
  **TPS Contributors**
  
- - Dr. Kirstie Whitaker, TPS Programme Director
+ - Dr Kirstie Whitaker, TPS Programme Director
  - Arielle Bennett, TPS Programme Manager
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
@@ -34,7 +34,7 @@ Through the involvement of domain experts from these sectors, the Practitioners 
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or Alexandra Araujo Alvarez (aaraujoalvarez@turing.ac.uk)
+For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or Alexandra Araujo Alvarez (aaraujoalvarez@turing.ac.uk)
 
 🎯 Roadmap
 ---
@@ -46,10 +46,10 @@ For any organisation related queries or concerns, you can directly reach out to 
 - [x] Recruitment
   - [x] Research Project Manager
   - [x] Senior Research Associate
-- [x] Create a primer document to share with invite organisations
+- [x] Create a primer document to share with invited organisations
 - [x] Invite five organisations from different sectors
-- [x] Align timeline with the BridgeAI project
-- [ ] Work with teh Skills and Digital Catapult to put together a timeline
+- [x] Align the timeline with the BridgeAI project
+- [ ] Work with the Skills and Digital Catapult to put together a timeline
 - [ ] Create a full 6 months timeline for the cohort members
 - [ ] Identify internal stakeholders and where they will engage
 - [ ] Get 2-3 alumni org from Digital Catapult to work in the first cohort
@@ -59,7 +59,7 @@ For any organisation related queries or concerns, you can directly reach out to 
 - [ ] Build and centralise resources for the entire cohort
 - [ ] Launch the hub's first cohort with residents and timeline with activities mapped
 - [ ] Hold an onboarding and intro call for each org
-- [ ] Host an in person resident workshop
+- [ ] Host an in-person resident workshop
 
 
 ## Repo Structure
