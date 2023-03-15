@@ -68,6 +68,17 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "Arielle-Bennett",
+      "name": "Arielle-Bennett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74651964?v=4",
+      "profile": "https://github.com/Arielle-Bennett",
+      "contributions": [
+        "content",
+        "design",
+        "fundingFinding"
+      ]
     }
   ],
   "contributorsPerLine": 7,

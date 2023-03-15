@@ -1,6 +1,6 @@
 # The Turing Way Practitioners Hub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 *A project management repository for The Turing Way Practitioners Hub*
@@ -102,6 +102,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="Vicky Hellon"/><br /><sub><b>Vicky Hellon</b></sub></a><br /><a href="#ideas-vhellon" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/TTW-Practitioners-Hub/commits?author=vhellon" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt="Jennifer Ding"/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="#content-dingaaling" title="Content">🖋</a> <a href="https://github.com/alan-turing-institute/TTW-Practitioners-Hub/commits?author=dingaaling" title="Documentation">📖</a> <a href="#ideas-dingaaling" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://lappland.io"><img src="https://avatars.githubusercontent.com/u/51458?v=4?s=100" width="100px;" alt="Hilmar Lapp"/><br /><sub><b>Hilmar Lapp</b></sub></a><br /><a href="https://github.com/alan-turing-institute/TTW-Practitioners-Hub/issues?q=author%3Ahlapp" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Arielle-Bennett"><img src="https://avatars.githubusercontent.com/u/74651964?v=4?s=100" width="100px;" alt="Arielle-Bennett"/><br /><sub><b>Arielle-Bennett</b></sub></a><br /><a href="#content-Arielle-Bennett" title="Content">🖋</a> <a href="#design-Arielle-Bennett" title="Design">🎨</a> <a href="#fundingFinding-Arielle-Bennett" title="Funding Finding">🔍</a></td>
     </tr>
   </tbody>
 </table>
