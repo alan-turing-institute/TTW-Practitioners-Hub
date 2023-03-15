@@ -12,55 +12,14 @@ Shared as an open source community-driven handbook on data science, the project 
 To date, 400+ diverse contributors from international organisations have collaborated to develop 300+ chapters and resources, which are available across guides on reproducibility, project design, communication, collaboration, research ethics and community. 
 Hosted under the [Tools, Practices and Systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) Research Programme, the project draws expertise from the institute’s Community Management, Research Application Management, Academic Skills and Research Engineering Teams.
 To embed data science best practices and community expertise into different sectors, we are launching The Turing Way Practitioners Hub this year. 
+
 The Practitioners Hub will provide a forum for cross-sector engagement, knowledge exchange and strategic collaboration with organisations across academia, research, engineering systems, government and healthcare leading data science initiatives. 
 Through the involvement of domain experts from these sectors, the Practitioners Hub will enable systematic approaches for building a shared understanding of open science, reproducibility, accessibility and research ethics to enhance quality, rigour and integrity in data science and AI.
 
-<!--If reusing this repository, delete this section -->
-
-## Repo Structure
-
-Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
-
-```
-├── LICENSE
-├── README.md          <- The top-level README for users of this project.
-├── CODE_OF_CONDUCT.md <- Guidelines for users and contributors of the project.
-├── CONTRIBUTING.md    <- Information on how to contribute to the project.
-├── data
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── project_management <- Meeting notes and other project planning resources
-│
-├── src                <- Source code for use in this project.
-│   │
-│   ├── data           <- Scripts to download or generate data
-│   │   └── make_dataset.py
-│   │
-│   ├── models         <- Scripts to train models and then use trained models to make
-│   │   │                 predictions
-│   │   ├── predict_model.py
-│   │   └── train_model.py
-│   │
-│   └── visualisation  <- Scripts to create exploratory and results oriented visualisations
-│       └── visualise.py
-└──
-```
 
 **Maintainers**
 
-This repository is jointly developed and maintained by Open Research Community Building (led by Dr. Malvika Sharan) and Research Application Management (led by Dr. Aida Mehonic) teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
+This repository is jointly developed and maintained by The Turing Way Co-Lead (Dr. Malvika Sharan), Research Project Manager (Alexandra Araujo Alvarez), Senior Research Associate (to be recruited soon) and the Research Application Manager (Jennifer Ding), all of them under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
@@ -90,7 +49,7 @@ This repository is jointly developed and maintained by Open Research Community B
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+For any organisation related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or Alexandra Araujo Alvarez (aaraujoalvarez@turing.ac.uk)
 
 ♻️ License
 ---
