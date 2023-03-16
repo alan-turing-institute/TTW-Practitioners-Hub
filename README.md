@@ -1,6 +1,6 @@
 # The Turing Way Practitioners Hub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 *A project management repository for The Turing Way Practitioners Hub*
@@ -100,6 +100,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/Arielle-Bennett"><img src="https://avatars.githubusercontent.com/u/74651964?v=4?s=100" width="100px;" alt="Arielle-Bennett"/><br /><sub><b>Arielle-Bennett</b></sub></a><br /><a href="#content-Arielle-Bennett" title="Content">🖋</a> <a href="#design-Arielle-Bennett" title="Design">🎨</a> <a href="#fundingFinding-Arielle-Bennett" title="Funding Finding">🔍</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/AlexandraAAJ"><img src="https://avatars.githubusercontent.com/u/124181438?v=4?s=100" width="100px;" alt="Alexandra Araujo Alvarez"/><br /><sub><b>Alexandra Araujo Alvarez</b></sub></a><br /><a href="#projectManagement-AlexandraAAJ" title="Project Management">📆</a> <a href="#content-AlexandraAAJ" title="Content">🖋</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://whitakerlab.github.io"><img src="https://avatars.githubusercontent.com/u/3626306?v=4?s=100" width="100px;" alt="Kirstie Whitaker"/><br /><sub><b>Kirstie Whitaker</b></sub></a><br /><a href="#talk-KirstieJane" title="Talks">📢</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt="Jennifer Ding"/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="#ideas-dingaaling" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
