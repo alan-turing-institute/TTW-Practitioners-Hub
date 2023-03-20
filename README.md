@@ -34,7 +34,7 @@ Through the involvement of domain experts from these sectors, the Practitioners 
 📫 Contact
 ---
 
-For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or Alexandra Araujo Alvarez (aaraujoalvarez@turing.ac.uk)
+For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or Alexandra Araujo Alvarez (aaraujo.alvarez@turing.ac.uk)
 
 🎯 Roadmap
 ---
