@@ -3,21 +3,11 @@
 > Code of Conduct, commonly abbreviated as “CoC”, is a set of rules outlining the social norms, rules, & responsibilities of an individual project, party or organization.
 
 This Code of Conduct document outlines our expectations for 
-participants within the team as well as this online repository (project).
+participants within The Turing Way Practitioners Hub team as well as this online repository (project).
 We also provide steps to reporting any concern, uncomfortable situation 
 or unacceptable behaviour by other participants. 
 We are committed to providing a welcoming, collaborative and inspiring experience 
 for all and expect our code of conduct to be honoured.
-
-<!--Delete these lines when reusing this repository-->
-The Code of Conduct used in this document is selected from the options provided by GitHub that reuses Contributor Covenant's version (add a new file -> name that `CODE_OF_CONDUCT.md` -> click on 'Choose a code of conduct template' -> select from the options that best suits the requirements in your project).
-<img width="1379" alt="image" src="https://user-images.githubusercontent.com/5370471/160671868-b936eaea-355e-45e2-b188-a9221567056a.png">
-
-We have further adopted the language and content that reflects our values and needs in the project.
-To learn more about why we recommend creating a CODE_OF_CONDUCT.md file, please read the [Participation Guidelines](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-participation.html) chapter in *The Turing Way* Guide for Project Design.
-It is recommended to select and adapt a well established Code of Conduct. Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your project. 
-*The Turing Way* [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
-<!--Delete these lines when reusing this repository-->
 
 ### Diversity Statement
 
@@ -102,11 +92,11 @@ decisions when appropriate.
 ## Reporting Incident
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika may involve
+by contacting The Turing Way Practitioners Hub Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika may involve
 the Tools, Practices and Systems Programme Director, Kirstie Whitaker when incidents are perceived 
 as difficult (not straightforward) except when any potential conflict of interest may arise.
 
-To report an issue involving the team lead, please email directly to the Tools, Practices and Systems 
+To report an issue involving The Turing Way Practitioners Hub lead, please email directly to the Tools, Practices and Systems 
 Programme Director, Kirstie Whitaker (email: kwhitaker@turing.ac.uk). 
 
 In your report please include:
@@ -130,7 +120,7 @@ We will respect confidentiality requests all the time for the purpose of protect
 
 ## Report Handling Process
 
-After receiving a report, the community leaders (or person handling the report), team lead or programme director in this case, will review the incident report and follow this process to determine the cause and consequences that violated this Code of Conduct and take further actions:
+After receiving a report, the community leaders (or person handling the report), The Turing Way Practitioners Hub lead or programme director in this case, will review the incident report and follow this process to determine the cause and consequences that violated this Code of Conduct and take further actions:
 
 Community leaders will reach out to the reporter to ask for further information if the submitted report is not complete or needs some additional context.
 Community leaders will also ensure that person impacted or harmed by the reported incident is safe and identify how they can be further supported.
@@ -179,7 +169,7 @@ A final meeting may be conducted if necessary.
 
 All reports will be kept confidential with details shared only with people involved in report handling. 
 If a person handling the report (team lead or programme director) is linked with the ongoing issue, they will declare their Conflict of Interest and remove themselves from any discussion related to the report handling.
-Resolution action may also include identifying appropriate members from within the Open Research Community Building Team if more support for the person handling the report is needed.
+Resolution action may also include identifying appropriate members from within the The Turing Way Practitioners Hub Team if more support for the person handling the report is needed.
 
 ## Attribution
 
