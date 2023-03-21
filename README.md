@@ -27,6 +27,7 @@ Through the involvement of domain experts from these sectors, the Practitioners 
  
  - Dr Kirstie Whitaker, TPS Programme Director
  - Arielle Bennett, TPS Programme Manager
+ - Anne Lee Steele, The Turing Way Community Manager
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
