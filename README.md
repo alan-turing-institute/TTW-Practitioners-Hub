@@ -47,10 +47,25 @@ For any organisation-related queries or concerns, you can directly reach out to 
 - [x] Recruitment
   - [x] Research Project Manager
   - [x] Senior Research Associate
-- [x] Create a primer document to share with invited organisations
-- [x] Invite five organisations from different sectors
-- [x] Align the timeline with the BridgeAI project
+- [x] Create a [primer document](https://docs.google.com/document/d/1n4n7-5FhAuf5fAOZ5VB8h1VbyZBHwzx6gZw6jzrq87Y/edit#heading=h.qqcosfgcdlg5) and [Practitioners Hub slidedeck](https://docs.google.com/presentation/d/1uVmDE_v8PTKOgunZSM8PwsfrPlRj5sYf/edit#slide=id.p11) to share with invited organisations 
+- [x] Invite five organisations from different sectors. 
+
+The first set of meetings were scheduled in March and April with the following partners
+
+|  Date  |  Organisation                                              | 
+| --------      | --------                                                  | 
+|  07 March 2023 |  [Digital Catapult](https://www.digicatapult.org.uk/)      |
+|  23 March 2023 |  [The Francis Crick Institute](https://www.crick.ac.uk/)   |
+|  28 March 2023 |  [Energy Systems Catapult](es.catapult.org.uk)             |
+|  28 March 2023 |  [British Antartic Survey](www.bas.ac.uk)                  |
+|  29 March 2023 |  [Genomics England](https://www.genomicsengland.co.uk)     |
+|  12 April 2023 |  [Office for National Statistics](https://www.ons.gov.uk)  |
+
+
+- [x] Align the timeline with the [BridgeAI project](https://iuk.ktn-uk.org/programme/bridgeai/?utm_campaign=2310291_BridgeAI%20Launch%20%5B%E2%80%A6%5Dum=email&utm_source=dotdigital&dm_i=2VFU,1DIMR,742QAV,5EE24,1). BridgeAI launch event will happen on the 26 April 2023
+      
 - [ ] Work with the Skills and Digital Catapult to put together a timeline
+
 - [ ] Create a full 6 months timeline for the cohort members
 - [ ] Identify internal stakeholders and where they will engage
 - [ ] Get 2-3 alumni org from Digital Catapult to work in the first cohort
