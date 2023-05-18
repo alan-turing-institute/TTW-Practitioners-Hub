@@ -16,6 +16,8 @@ To embed data science best practices and community expertise into different sect
 The Practitioners Hub will provide a forum for cross-sector engagement, knowledge exchange and strategic collaboration with organisations across academia, research, engineering systems, government and healthcare -- leading data science initiatives. 
 Through the involvement of domain experts from these sectors, the Practitioners Hub will enable systematic approaches for building a shared understanding of open science, reproducibility, accessibility and research ethics to enhance quality, rigour and integrity in data science and AI.
 
+You can find the [introductory presentation online](https://docs.google.com/presentation/d/e/2PACX-1vSwRWzWrlMC4GHsAgTjwAsfzthEEGk5hIJPKVeL01LVMpyKfNsMqESmpotLLKarkA/pub?start=false&loop=false&delayms=3000).
+
 **Project Members**
 
  - Dr Malvika Sharan, TPS Senior Researcher - Open Research, Co-Lead of The Turing Way
