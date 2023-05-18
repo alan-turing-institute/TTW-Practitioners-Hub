@@ -52,11 +52,12 @@ For any organisation-related queries or concerns, you can directly reach out to 
 - [x] Create a primer document to share with invited organisations
 - [x] Invite five organisations from different sectors
 - [x] Align the timeline with the BridgeAI project
-- [ ] Work with the Skills and Digital Catapult to put together a timeline
-- [ ] Create a full 6 months timeline for the cohort members
-- [ ] Identify internal stakeholders and where they will engage
-- [ ] Get 2-3 alumni org from Digital Catapult to work in the first cohort
-- [ ] Hold 1:1 planning meetings with each org
+- [x] Work with the Skills and Digital Catapult to put together a timeline
+- [x] Create a full 6 months timeline for the cohort members
+- [x] Identify internal stakeholders and where they will engage
+- [x] Hold 1:1 planning meetings with each org directly working with the TPS team
+- [ ] Get 2-3 alumni org from Digital Catapult (DC) to work in the first cohort
+- [ ] Hold 1:1 planning meetings with each org recommended by DC
 - [ ] Build agreement/MoU with each org, identify experts in residence
 - [ ] Onboard the Senior Research Associate
 - [ ] Build and centralise resources for the entire cohort
