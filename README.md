@@ -22,14 +22,15 @@ You can find the [introductory presentation online](https://docs.google.com/pres
 
  - Dr Malvika Sharan, TPS Senior Researcher - Open Research, Co-Lead of The Turing Way
  - Alexandra Araujo Alvarez, Research Project Manager - The Turing Way
- - Jennifer Ding, Research Application Manager - Acting Senior Researcher
+ - Cami Rincón, Research Application Officer
  - Shane Conneely, Partnership Development Lead
  
  **TPS Contributors**
  
  - Dr Kirstie Whitaker, TPS Programme Director
  - Arielle Bennett, TPS Programme Manager
- - Anne Lee Steele, The Turing Way Community Manager
+ - Anne Lee Steele, Research Community Manager - The Turing Way 
+ - Jennifer Ding, Research Application Manager - Acting Senior Researcher
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
