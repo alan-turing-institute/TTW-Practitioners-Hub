@@ -49,8 +49,8 @@ For any organisation-related queries or concerns, you can directly reach out to 
   -  Cite as: *Sharan, Malvika, & Bennett, Arielle. (2022). The Turing Way Practitioners Hub - Turing Funded Proposal 2022. Zenodo. https://doi.org/10.5281/zenodo.7427274*
 - [x] Recruitment
   - [x] Research Project Manager
-  - [ ] Revise and open Senior Research Associate recruitment
-  - [ ] Contract a freelance technical writer for the first cohort
+  - [x] Revise and open Senior Research Associate recruitment
+  - [x] Contract a freelance technical writer for the first cohort
   - [ ] Contract a Open Source consultant for the first cohort
 - [x] Create a primer document to share with invited organisations
 - [x] Invite five organisations from different sectors
