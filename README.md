@@ -45,6 +45,22 @@ For any organisation-related queries or concerns, you can directly reach out to 
 
 ### Stages of this project
 
+*Five organisations have joined the hub, and five Experts in Residence (EiRs) have been onboarded*
+
+- [x] Survey the goals and purpose of each EiR
+- [x] Host online kick-off event
+- [x] Plan the in-person event in the second month
+- [x] Set up meetings with the technical writer to work with EiRs in the first 3 months
+- [ ] Set up framework and process for the technical writing
+- [ ] Build and centralise resources for the entire cohort
+- [ ] Launch the website
+- [ ] Schedule workshops for each month (UX, Community, Skills)
+- [ ] Host an in-person resident workshop
+
+#### Logistics till the launch
+
+*Proposal funded and the work begins*
+
 - [x] Proposal sharing in Zenodo: https://zenodo.org/record/7427274
   -  Cite as: *Sharan, Malvika, & Bennett, Arielle. (2022). The Turing Way Practitioners Hub - Turing Funded Proposal 2022. Zenodo. https://doi.org/10.5281/zenodo.7427274*
 - [x] Recruitment
@@ -54,20 +70,17 @@ For any organisation-related queries or concerns, you can directly reach out to 
   - [ ] Contract a Open Source consultant for the first cohort
 - [x] Create a primer document to share with invited organisations
 - [x] Invite five organisations from different sectors
+- [x] Hold an onboarding and intro call for each org
 - [x] Align the timeline with the BridgeAI project
 - [x] Work with the Skills and Digital Catapult to put together a timeline
 - [x] Create a full 6 months timeline for the cohort members
 - [x] Identify internal stakeholders and where they will engage
 - [x] Hold 1:1 planning meetings with each org directly working with the TPS team
-- [ ] Get 2-3 alumni org from Digital Catapult (DC) to work in the first cohort
-- [ ] Hold 1:1 planning meetings with each org recommended by DC
-- [ ] Build agreement/MoU with each org, identify experts in residence
-- [ ] Onboard the Senior Research Associate
-- [ ] Build and centralise resources for the entire cohort
-- [ ] Launch the hub's first cohort with residents and timeline with activities mapped
-- [ ] Hold an onboarding and intro call for each org
-- [ ] Host an in-person resident workshop
-
+- ~~[ ] Get 2-3 alumni org from Digital Catapult (DC) to work in the first cohort~~
+- [x] Onboard a startup from BridgeAI network
+- [x] Build agreement/MoU with each org, identify experts in residence
+- [ ] Onboard the Senior Research Associate -- paused
+- [x] Launch the cohort with Experts in Residence
 
 ## Repo Structure
 
