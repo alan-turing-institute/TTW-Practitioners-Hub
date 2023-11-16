@@ -22,15 +22,23 @@ You can find the [introductory presentation online](https://docs.google.com/pres
 
  - Dr Malvika Sharan, TPS Senior Researcher - Open Research, Co-Lead of The Turing Way
  - Alexandra Araujo Alvarez, Research Project Manager - The Turing Way
- - Cami Rincón, Research Application Officer
  - Shane Conneely, Partnership Development Lead
- 
+
  **TPS Contributors**
  
  - Dr Kirstie Whitaker, TPS Programme Director
  - Arielle Bennett, TPS Programme Manager
  - Anne Lee Steele, Research Community Manager - The Turing Way 
  - Jennifer Ding, Research Application Manager - Acting Senior Researcher
+
+ **Case study liaisons**
+ - Stuart Gillespie, External technical writer
+ - Lucy Killoran, Enrichment Student, The Alan Turing Institute
+ - Arielle Bennett, Programme Manager, The Alan Turing Institute
+ - Vicky Hellon, Research Community Manager, The Alan Turing Institute
+
+**Previous project members**
+ - Cami Rincón, Research Application Officer 
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
@@ -51,9 +59,9 @@ For any organisation-related queries or concerns, you can directly reach out to 
 - [x] Host online kick-off event
 - [x] Plan the in-person event in the second month
 - [x] Set up meetings with the technical writer to work with EiRs in the first 3 months
-- [ ] Set up framework and process for the technical writing
-- [ ] Build and centralise resources for the entire cohort
-- [ ] Launch the website
+- [X] Set up framework and process for the technical writing
+- [X] Build and centralise resources for the entire cohort
+- [X] Launch the website
 - [ ] Schedule workshops for each month (UX, Community, Skills)
 - [ ] Host an in-person resident workshop
 
