@@ -13,10 +13,17 @@ To date, 400+ diverse contributors from international organisations have collabo
 Hosted under the [Tools, Practices and Systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) Research Programme, the project draws expertise from the institute’s Community Management, Research Application Management, Academic Skills and Research Engineering Teams.
 To embed data science best practices and community expertise into different sectors, we are launching The Turing Way Practitioners Hub this year. 
 
-The Practitioners Hub will provide a forum for cross-sector engagement, knowledge exchange and strategic collaboration with organisations across academia, research, engineering systems, government and healthcare -- leading data science initiatives. 
-Through the involvement of domain experts from these sectors, the Practitioners Hub will enable systematic approaches for building a shared understanding of open science, reproducibility, accessibility and research ethics to enhance quality, rigour and integrity in data science and AI.
+The Turing Way Practitioners Hub is an extension of The Turing Way to engage directly with experts from partnering organisations in their efforts to promote data science best practices. The Practitioners Hub provides a forum for cross-sector engagement, knowledge exchange and strategic collaboration across academia, research, engineering systems, government and healthcare-leading data science initiatives. Through the involvement of domain experts from different sectors, the Practitioners Hub will enable systematic approaches for building a shared understanding of open science, reproducibility, accessibility and research ethics to enhance quality, rigour and integrity in data science and AI.
 
-You can find the [introductory presentation online](https://docs.google.com/presentation/d/e/2PACX-1vSwRWzWrlMC4GHsAgTjwAsfzthEEGk5hIJPKVeL01LVMpyKfNsMqESmpotLLKarkA/pub?start=false&loop=false&delayms=3000).
+The first “Experts in Residence” (EiR) cohort has been joined by the data science best practice champions from the British Antarctic Survey, Energy Systems Catapult, Genomics England, and Office of National Statistics and Digihaul. Learn about our EiRs on our website: https://www.turing.ac.uk/research/research-projects/turing-way-practitioners-hub.
+
+In this repository you will find the following information:
+* Cohort Activity Plan
+* Training Notes
+* Case Studies
+* The Turing Way Practitioners Hub and BridgeAI Engagement plan
+  
+In addition, you can find the [Turing Way Practitioners Hub introductory presentation online](https://docs.google.com/presentation/d/e/2PACX-1vSwRWzWrlMC4GHsAgTjwAsfzthEEGk5hIJPKVeL01LVMpyKfNsMqESmpotLLKarkA/pub?start=false&loop=false&delayms=3000).
 
 **Project Members**
 
@@ -36,12 +43,12 @@ You can find the [introductory presentation online](https://docs.google.com/pres
  - Lucy Killoran, Enrichment Student, The Alan Turing Institute
  - Arielle Bennett, Programme Manager, The Alan Turing Institute
  - Vicky Hellon, Research Community Manager, The Alan Turing Institute
-
+   
 **Previous project members**
- - Cami Rincón, Research Application Officer 
+ - Cami Rincón, Research Application Officer
 
-*Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
-
+This work is supported by Innovate UK BridgeAI.
+The project has also received funding and support from the Ecosystem Leadership Award under the EPSRC Grant EP/X03870X/1 & The Alan Turing Institute.
 
 📫 Contact
 ---
@@ -62,8 +69,9 @@ For any organisation-related queries or concerns, you can directly reach out to 
 - [X] Set up framework and process for the technical writing
 - [X] Build and centralise resources for the entire cohort
 - [X] Launch the website
-- [ ] Schedule workshops for each month (UX, Community, Skills)
-- [ ] Host an in-person resident workshop
+- [X] Schedule workshops for each month (UX, Community, Skills)
+- [X] Host in-person resident workshop
+- [ ] Organise a final Celebration day
 
 #### Logistics till the launch
 
