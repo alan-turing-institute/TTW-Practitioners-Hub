@@ -83,7 +83,7 @@ For any organisation-related queries or concerns, you can directly reach out to 
   - [x] Research Project Manager
   - [x] Revise and open Senior Research Associate recruitment
   - [x] Contract a freelance technical writer for the first cohort
-  - [ ] Contract a Open Source consultant for the first cohort
+  - [x] Contract Open Source consultants for the first cohort
 - [x] Create a primer document to share with invited organisations
 - [x] Invite five organisations from different sectors
 - [x] Hold an onboarding and intro call for each org
