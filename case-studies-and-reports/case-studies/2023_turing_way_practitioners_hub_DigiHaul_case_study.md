@@ -1,4 +1,4 @@
-# **AI in transportation: DigiHaul's vision for decarbonizing the UK’s road network**
+# **AI in transportation: DigiHaul's vision for decarbonising the UK’s road network**
 
 An independent clothing manufacturer has just received its first order from a retail partner after the business confirmed it could meet a short delivery lead-time. The order is very lucrative and there is high business expectation that this is a strategic relationship that they want to grow. Excellent news!
 
