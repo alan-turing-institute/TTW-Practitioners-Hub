@@ -15,7 +15,7 @@ In this document, we provide the Practitioners Hub activities to guide engagemen
 * **Pre-cohort communication: Why** are EiRs working together?
   * **Goal:** EiRs will share current best practices from their respective sectors, exchange knowledge about how they support the adoption of best practices and combine their skills/resources to scale their efforts across sectors.
   * **Onboarding process:**
-      * [Share priming document with accompanying presentation](https://docs.google.com/document/d/1n4n7-5FhAuf5fAOZ5VB8h1VbyZBHwzx6gZw6jzrq87Y/edit#heading=h.6vmnt2h4e6ps)
+      * [Share priming document with accompanying presentation](https://github.com/alan-turing-institute/TTW-Practitioners-Hub/blob/malvikasharan-patch-5/cohort-activity-plan/The%20Turing%20Way%20Practitioners%20Hub%20-%20Primer%20for%20partnering%20organisations.pdf) - The Turing Way Practitioners Hub - Introduction and Primer Documents. (2023, December 11). doi: [10.5281/zenodo.10358146](https://zenodo.org/records/10358146)
       * [Onboarding survey to help identify goals for their respective projects before the kick-off session](https://forms.office.com/e/kYPP9ViFhV)
       * Themed meetings for the full cohort have been planned based on their goals and responses to the onboarding
         
@@ -64,7 +64,6 @@ In this document, we provide the Practitioners Hub activities to guide engagemen
 - Week 4: Full EiR Meeting - hybrid workshop (Full day) - **27 July (9:30 - 16:00) - Hybrid**
     * Agenda: - attended by 22 people
     * Panel recording: Adapting Data Science Best Practices [Practitioners Hub Panel - Neil Chue Hong, Lauren Wool, Simon Reeve, Kirstie Whitaker, Jennifer Ding - YouTube](https://www.youtube.com/watch?v=eTH6-BA9ouE&t=5s)
-
 
 ### **Month 2: August**
 - Week 1: Collaboration Cafe - EiR Coworking with The Turing Way - **2 August (15:00 - 17:00)**
@@ -122,22 +121,19 @@ In this document, we provide the Practitioners Hub activities to guide engagemen
     * Individual: Tooling and Roadmapping for your project
     * Please connect with the team regarding any question
 
-
 ### **Month 6: December - Concluding Weeks**
-- Week 1: Collaboration Cafe - EiR Coworking with The Turing Way - **The Practitioners Hub - Celebration day  on 11 December ([2023-09-Fireside-Internal-Planning-Document - Google Docs](https://docs.google.com/document/d/1Eo5zbPm0zUd9I9R2_UaTXrCF4PPNofrwNQBscsHnufk/edit#heading=h.hmjj4rapmv7o))**
+- Week 1: Collaboration Cafe - EiR Coworking with The Turing Way
     * Reflecting on the progress and next steps
     * Identifying ongoing and future collaboration
-- Week 2: **Full EiR Meeting - Workshop** (full day - Hybrid) - Date TBC
-    * Individual report outs
-    * Reflections and next steps
+- Week 2: Wrap up meetings:
+ * Feedback meetings with each individual
+ * Publication of Case Studies on Zenodo: https://zenodo.org/communities/the-turing-way-practitioners
+ * Fireside chat to publicly launch the case studies
+ * Debrief with the Practitioners Hub team
 
-Final Call: Closing meeting with each individual: 1:1 with the Practitioners Hub team
-
-
+**The Practitioners Hub - Celebration** - Date TBC in 2024
 
 ### **Post-Cohort - Staying Connected**
-
-
 
 1. Continue working with The Turing Way team and community
 2. Join The Turing Way working groups, or propose areas of work where you can continue working on your projects
@@ -148,10 +144,7 @@ Final Call: Closing meeting with each individual: 1:1 with the Practitioners Hub
 7. Join the Practitioners Hub team to be involved in the delivery of the next cohort
 8. Have other ideas? Connect with Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) 
 
-**———————————————————————————————————————**
-
-
-## Review GROW Model to assess EiRs progress
+## GROW Model to assess progress
 
 * **Goal**: Agree on a topic & objective or longer-term goals
     * What do you want to achieve?
