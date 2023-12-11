@@ -20,7 +20,7 @@ The first “Experts in Residence” (EiR) cohort has been joined by the data sc
 In this repository you will find the following information:
 * Cohort Activity Plan
 * Training Notes
-* Case Studies
+* Case Studies and Reports
 * The Turing Way Practitioners Hub and BridgeAI Engagement plan
   
 In addition, you can find the [Turing Way Practitioners Hub introductory presentation online](https://docs.google.com/presentation/d/e/2PACX-1vSwRWzWrlMC4GHsAgTjwAsfzthEEGk5hIJPKVeL01LVMpyKfNsMqESmpotLLKarkA/pub?start=false&loop=false&delayms=3000).
