@@ -29,16 +29,16 @@ In addition, you can find the [Turing Way Practitioners Hub introductory present
 
  - Dr Malvika Sharan, TPS Senior Researcher - Open Research, Co-Lead of The Turing Way
  - Alexandra Araujo Alvarez, Research Project Manager - The Turing Way
- - Shane Conneely, Partnership Development Lead
+ - Dr Kirstie Whitaker, TPS Programme Director
 
  **TPS Contributors**
  
- - Dr Kirstie Whitaker, TPS Programme Director
+ - Shane Conneely, Partnership Development Lead
  - Arielle Bennett, TPS Programme Manager
  - Anne Lee Steele, Research Community Manager - The Turing Way 
  - Jennifer Ding, Research Application Manager - Acting Senior Researcher
 
- **Case study liaisons**
+ **Case Study liaisons**
  - Stuart Gillespie, External technical writer
  - Lucy Killoran, Enrichment Student, The Alan Turing Institute
  - Arielle Bennett, Programme Manager, The Alan Turing Institute
