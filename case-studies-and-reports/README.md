@@ -2,6 +2,13 @@
 
 ## Case studies
 
+*The Turing Way* Practitioners Hub together with the *Experts in Residence* and the case studies liaison have produced five case studies (listed in the table below) each capturing the best practices and recommendations from the following organisations: 
+* British Antarctic Survey
+* Energy Systems Catapult
+* Digihaul
+* Genomics England
+* Office of National Statistics
+
 | Title | Markdown link to the file | Zenodo link | Authors and Contributors |
 |:------|:------|:------|:------|
 | Exploring the intersection of data science and open practices at British Antarctic Survey | [Markdown File](./case-studies-and-reports/case-studies/2023_turing_way_practitioners_hub_BAS_case_study.md) | [https://doi.org/10.5281/zenodo.10337801](https://doi.org/10.5281/zenodo.10337801) | Gillespie, S. Byrne, J. Clark, M. Gascoyne, M. Stephenson, L. Araujo Alvarez, A. Whitaker, K. Sharan, M. |
