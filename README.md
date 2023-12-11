@@ -97,7 +97,7 @@ For any organisation-related queries or concerns, you can directly reach out to 
 - [x] Build agreement/MoU with each org, identify experts in residence
 - [ ] Onboard the Senior Research Associate -- paused
 - [x] Launch the cohort with Experts in Residence
-- [ ] Cohort plans are [listed here](./training-sessions)
+- [ ] Cohort plans are [listed here](./cohort-activity-plan)
 
 ## Repo Structure
 
