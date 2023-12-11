@@ -1,9 +1,9 @@
-  # Directories and Files for Project Reports
+# Reports and outputs from The Turing Way Practitioners Hub
+
+## Case studies
+
+| Title | Link to the file | Zenodo link | Authors and Contributors |
+|:------|:------|:------|:------|
+| | | | |
   
-  * [ ] Project reports
-    * [ ] Quarterly/Annual reports 
-    * [ ] Six monthly project updates
-    * [ ] Impact report
-  * [ ] Research related reporting
-* [ ] Figures
-  * [ ] Figures related to reports - use naming convention 
+
