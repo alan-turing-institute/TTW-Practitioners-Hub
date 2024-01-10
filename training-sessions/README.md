@@ -13,6 +13,6 @@ Month 3 (September) | **Discussion on open leadership** | [The Turing Way Open L
 | |  **Skills/Knowledge Gap Mapping** - delivered by the Turing Skills Team | [Slide-deck](https://docs.google.com/presentation/d/1sl7dLQMjGF8q7FmZi-CqFEpIcDLsy1yc/edit#slide=id.p1) / [TTW-PH-Skills Gaps Workshop notes](https://docs.google.com/document/d/1xGeUuDYHRSkozstzZbjEXrxmLsEChmFWKXnU4EFZIWQ/edit) |
 Month 4 (October) | **Systems Thinking Workshop** led by [Digital Catapult](https://www.digicatapult.org.uk/) | [Introduction to Systems Thinking Slide-deck](https://docs.google.com/presentation/d/10pTmynOgXVVGanR9pKtCZC4J4Nj2EgdZ/edit#slide=id.g19b5cc77afc_0_329) / [Leverage Points: Places to Intervene in a System](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)|
 Month 5 (November) | **Product Strategy and Road mapping** led by [Superbloom](https://superbloom.design/) | Notes to be added |
-Month 6 (December) | **Celebration Day: Case Studies Launch & Fireside Chat** | Recording to be added
+Month 6 (December) | **Fireside Chat:  Adopting open source in Data Science & AI across sectors: Case Study Series** | [YouTube recording](https://www.youtube.com/watch?v=NdmkaRmY6jI) / Case studies are available [here](https://zenodo.org/communities/the-turing-way-practitioners?q=&l=list&p=1&s=10&sort=newest)
 
 
