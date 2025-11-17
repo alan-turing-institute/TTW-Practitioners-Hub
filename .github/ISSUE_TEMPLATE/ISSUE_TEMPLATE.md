@@ -1,8 +1,8 @@
 ---
-name: "\u2728 General"
+name: "✨ General"
 about: Have an idea for the project?
-title:
-labels:
+title: ''
+labels: ''
 assignees: ''
 
 ---
